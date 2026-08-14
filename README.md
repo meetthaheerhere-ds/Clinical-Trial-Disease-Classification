@@ -106,4 +106,4 @@ Clinical-Trial-Disease-Classification/
 
 ## 👨‍💻 Author
 
-Thaheer A
+Thaheer
